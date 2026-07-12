@@ -1,119 +1,227 @@
 <div align="center">
 
-# Aadhithya K
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aadhithya%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20|%20ML%20Engineer%20%7C%20RAG%20%26%20LLM%20Builder&descAlignY=62&descSize=16" width="100%"/>
 
-### Building AI systems that transform data into decisions
-
-**Chennai, India · AI & Data Science · Open to Opportunities**
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadhithya-k-797690288/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadhithyak123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AADHITHYA-K)
+<a href="https://github.com/AADHITHYA-K">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-Year+AI+%26+DS+Student+%40+Sri+Sai+Ram+IT;Building+RAG+Pipelines+%26+Local+LLM+Systems;ML+Engineer+%7C+Frontend+Developer;Turning+Ideas+Into+Deployed+Products" alt="Typing SVG" />
+</a>
 
 </div>
 
----
+<br/>
 
-## About Me
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-I am an AI/ML Engineer specializing in Retrieval-Augmented Generation (RAG), Agentic AI, and production-ready LLM systems. Currently an **AI/ML Intern at Itech India**, I own the full machine learning lifecycle—from data curation to production deployment.
+### 💻 About Me
 
-* **Education:** B.Tech in AI & Data Science &nbsp;·&nbsp; **CGPA: 8.99**
-* **Recognition:** NPTEL **Top 1%** &nbsp;·&nbsp; Startup Pitch Fest **Finalist**
-* **Core Focus:** RAG &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; LLM Fine-Tuning &nbsp;·&nbsp; MLOps
+```python
+class Aadhithya:
+    def __init__(self):
+        self.name = "Aadhithya K"
+        self.location = "Chennai, India"
+        self.degree = "B.Tech - AI & Data Science (CGPA: 9.04)"
+        self.institution = "Sri Sai Ram Institute of Technology"
 
----
+        self.stack = [
+            "Python", "Java", "C",
+            "RAG Pipelines", "LLMs", "Prompt Engineering",
+            "HTML/CSS", "Figma", "Docker"
+        ]
 
-## Tech Stack
+        self.currently_learning = [
+            "Advanced Agentic RAG Systems",
+            "Generative AI with WatsonX",
+            "Scalable ML Deployment"
+        ]
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+        self.fun_fact = "I turn Figma mockups into pixel-perfect frontends 🎨"
 
-### ML & Generative AI
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+    def motto(self):
+        return "Learn quickly. Build practically. Ship impact. 🚀"
 
-### Backend & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Frontend & Design
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+me = Aadhithya()
+print(me.motto())
+```
 
----
+<br clear="right"/>
 
-## Experience
+### 🛠️ Tech Stack
 
-**AI/ML Intern** &nbsp;·&nbsp; *Itech India Pvt. Ltd.* &nbsp;·&nbsp; *(Feb 2025 – Present)*
-* Own the end-to-end ML lifecycle including data cleaning, model training, and production pipeline deployment.
+**Languages**
 
-**Machine Learning Intern** &nbsp;·&nbsp; *Edunet Foundation* &nbsp;·&nbsp; *(Feb 2025 – Mar 2025)*
-* Designed, evaluated, and deployed classical supervised and unsupervised ML models from scratch.
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
-**Full Stack Development Intern** &nbsp;·&nbsp; *Big-si-Bucks Innovation* &nbsp;·&nbsp; *(Nov 2025 – Dec 2025)*
-* Took complete ownership of application features from initial UI prototyping to backend REST API integrations.
+**AI / ML & Frameworks**
 
----
+<img src="https://img.shields.io/badge/RAG-70A5FD?style=flat-square&logo=readthedocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Image%20Classification-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 
-## Projects
+**Cloud & DevOps**
 
-### Private AI Search — Local LLM Semantic Retrieval
-> Fully local RAG pipeline. Drop any document and get context-aware answers with zero cloud dependency and complete privacy control.
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 
-![RAG](https://img.shields.io/badge/RAG-0D1117?style=flat-square) ![Local LLM](https://img.shields.io/badge/Local_LLM-0D1117?style=flat-square) ![Vector DB](https://img.shields.io/badge/Vector_DB-0D1117?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Databases & Vector Stores**
 
-### AI Healthcare — Medical Diagnosis System
-> Symptom-to-diagnosis prediction system pairing advanced ML inference engines with a curated medical knowledge base.
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white"/>
 
-![NLP](https://img.shields.io/badge/NLP-0D1117?style=flat-square) ![ML Inference](https://img.shields.io/badge/ML_Inference-0D1117?style=flat-square) ![XAI](https://img.shields.io/badge/XAI-0D1117?style=flat-square)
+**Tools & Design**
 
-### AI Agriculture — Plant Disease Detection
-> Computer vision pipeline utilizing deep learning architectures to instantly detect crop diseases from leaf imagery alongside actionable remedies.
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-0D1117?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-0D1117?style=flat-square) ![CNN](https://img.shields.io/badge/CNN-0D1117?style=flat-square)
+<br/>
 
-### Resume Builder — Dev Productivity Tool
-> Sleek web application featuring a guided form UI, real-time preview updating, and exportable formatting engines.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-0D1117?style=flat-square)
-
----
-
-## Currently Building & Researching
-
-| Status | Domain / Task | Description |
-| :--- | :--- | :--- |
-| **Active** | Advanced RAG | Implementing hybrid dense/sparse retrieval and cross-encoder re-ranking. |
-| **Active** | Agentic AI | Designing autonomous multi-step tool-use and planning pipelines. |
-| **Building** | MLOps Pipelines | Automating model version tracking, validation checkpoints, and deployments. |
-| **Research** | LLM Fine-Tuning | Exploring parameter-efficient fine-tuning via LoRA / QLoRA on domain data. |
-| **Ideating** | GenAI Product | Conceptualizing a targeted generative workflow automation platform. |
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AADHITHYA-K&theme=default&hide_border=true" alt="Aadhithya's GitHub Streak" />
-</div>
-
----
+### 📊 GitHub Stats
 
 <div align="center">
 
-*Chennai, India · Open to remote roles and relocation*
-
-**Not just studying AI. Shipping it.**
+<a href="https://github.com/AADHITHYA-K">
+  <img src="https://github-readme-stats.vercel.app/api?username=AADHITHYA-K&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" width="49%"/>
+</a>
+<a href="https://github.com/AADHITHYA-K">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AADHITHYA-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" width="43%"/>
+</a>
 
 </div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AADHITHYA-K&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="70%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AADHITHYA-K&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="90%"/>
+
+</div>
+
+### 🏆 Trophy Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AADHITHYA-K&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%"/>
+
+</div>
+
+### 💼 Work Experience
+
+<details>
+<summary><b>AI/ML Intern | Itech India Pvt. Ltd.</b> — Feb 2025 – Nov 2025 (Chennai, India)</summary>
+<br/>
+
+> `Python` `ML Model Training` `Feature Engineering` `Evaluation Pipelines`
+
+- Worked alongside a team of engineers building and deploying ML models in production
+- Owned the full ML lifecycle — data cleaning, feature engineering, training, evaluation, and iterative refinement
+- Collaborated cross-functionally to move models from experimentation to deployment
+- Practiced disciplined model iteration to improve real-world performance
+
+</details>
+
+<details>
+<summary><b>Machine Learning Intern | Edunet Foundation</b> — Dec 2025 – Jan 2025 (Remote)</summary>
+<br/>
+
+> `Supervised Learning` `Unsupervised Learning` `Model Evaluation`
+
+- Explored both supervised and unsupervised learning techniques hands-on
+- Built ML models from scratch to strengthen foundational understanding
+- Learned to critically interpret model metrics instead of relying on surface-level accuracy scores
+- Strengthened core fundamentals bridging theory and applied ML
+
+</details>
+
+<details>
+<summary><b>Frontend Development Intern | Big-si-Bucks Innovation</b> — Nov 2025 – Dec 2025 (Chennai, India)</summary>
+<br/>
+
+> `HTML/CSS` `Figma` `Responsive Design` `UI/UX`
+
+- Developed responsive, user-friendly web interfaces from scratch
+- Converted Figma designs into interactive, pixel-accurate frontend components
+- Optimized UI performance across devices and screen sizes
+- Enhanced overall user experience through clean, accessible design patterns
+
+</details>
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **[CRAE – Climate Resilient Agricultural Enhancement](https://github.com/AADHITHYA-K)** | Python, ML, RAG | AI-powered smart agriculture platform combining crop recommendation, plant disease detection, fertilizer suggestions, live weather updates, and a RAG-based farming assistant chatbot |
+| **[Local LLM-Powered Semantic Retrieval System](https://github.com/AADHITHYA-K)** | Ollama, Qdrant, Docker | Fully local RAG pipeline — drop in any document and get context-aware answers with zero data sent to the cloud |
+| **[Medical Diagnosis System](https://github.com/AADHITHYA-K)** | Python, ML, Knowledge Base | Symptom-to-diagnosis predictor pairing ML inference with a curated medical knowledge base for explainable, non-black-box outputs |
+
+</div>
+
+### 🌟 More Projects
+
+- **Dominant Color Analysis from Image** — Applied K-means clustering to extract meaningful color palettes from images, a practical tool for e-commerce cataloguing and design workflows
+- **Interactive Feedback & Poster Generation Platform** — Built an SIH feedback submission platform where students answer guided prompts and auto-generate a polished poster
+
+### 🏅 Achievements
+
+<div align="center">
+
+| 🏆 | Achievement | Details |
+|---|---|---|
+| 🚀 | Startup Pitch Fest 2K25 Finalist | PCU Pune — recognized among top pitches |
+| 📈 | NPTEL Entrepreneurship | Ranked in the Top 1% of participants |
+| 🍎 | Apple Teacher Programme | Student Organizer at Sri Sai Ram Institute of Technology |
+| 📜 | Microsoft Certification | Learn AI and Gen AI Basics |
+| 📜 | HCL (Guvi) Certification | Big Data Analytics with Lab |
+| 📜 | ICT Academy Certification | ML and AI Fundamentals |
+| 📜 | NPTEL Certification | Real Time Operating Systems |
+| 📜 | IBM Workshop | Generative AI using WatsonX (by IBMer R Vasudevan) |
+
+</div>
+
+### 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.Tech – AI & Data Science | Sri Sai Ram Institute of Technology, Chennai | 2023 – Present | CGPA: 9.04 |
+| Higher Secondary Certificate (Class XII) | Sri Sairam Matriculation Higher Secondary School, Chennai | 2022 – 2023 | 86.7% |
+
+</div>
+
+### 📚 Currently Learning
+
+```text
+🧱 Agentic AI        → Multi-step reasoning, tool-using RAG agents
+🧠 Generative AI      → WatsonX workflows, prompt-driven pipelines
+☁️ ML Deployment      → Scalable, production-grade model serving
+```
+
+### 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadhithya-k-797690288/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aadhithyak123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AADHITHYA-K)
+
+<img src="https://komarev.com/ghpvc/?username=AADHITHYA-K&color=70a5fd&style=flat-square&label=Profile+Views" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
