@@ -3,14 +3,46 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aadhithya%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20|%20ML%20Engineer%20%7C%20RAG%20%26%20LLM%20Builder&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://github.com/AADHITHYA-K">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-Year+AI+%26+DS+Student;Building+RAG+Pipelines+%26+Local+LLM+Systems;ML+Engineer+%7C+Frontend+Developer;Turning+Ideas+Into+Deployed+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-Year+AI+%26+DS+Student+%40+Sri+Sai+Ram+IT;Building+RAG+Pipelines+%26+Local+LLM+Systems;ML+Engineer+%7C+Frontend+Developer;Turning+Ideas+Into+Deployed+Products" alt="Typing SVG" />
 </a>
 
 </div>
+
 <br/>
 
-
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif"/>
+
+### 💻 About Me
+
+```python
+class Aadhithya:
+    def __init__(self):
+        self.name = "Aadhithya K"
+        self.location = "Chennai, India"
+        self.degree = "B.Tech - AI & Data Science (CGPA: 9.04)"
+        self.institution = "Sri Sai Ram Institute of Technology"
+
+        self.stack = [
+            "Python", "Java", "C",
+            "RAG Pipelines", "LLMs", "Prompt Engineering",
+            "HTML/CSS", "Figma", "Docker"
+        ]
+
+        self.currently_learning = [
+            "Advanced Agentic RAG Systems",
+            "Generative AI with WatsonX",
+            "Scalable ML Deployment"
+        ]
+
+        self.fun_fact = "I turn Figma mockups into pixel-perfect frontends 🎨"
+
+    def motto(self):
+        return "Learn quickly. Build practically. Ship impact. 🚀"
+
+
+me = Aadhithya()
+print(me.motto())
+```
 
 <br clear="right"/>
 
