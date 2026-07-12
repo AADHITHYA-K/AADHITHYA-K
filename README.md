@@ -7,10 +7,10 @@
 </a>
 
 </div>
-
 <br/>
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-83b23a90cd3a.gif"/>
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif"/>
 
 <br clear="right"/>
 
