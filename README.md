@@ -11,46 +11,47 @@
 <br/>
 
 <div align="center">
-  <img  width="500" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif"/>
+  <img width="500" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 </div>
-<br clear="right"/>
+
 
 ### Tech Stack
 
+<div align="center">
+
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+[![Skills](https://skillicons.dev/icons?i=python,java,c,html,css&theme=dark)](https://skillicons.dev)
+
+<br/>
 
 **AI / ML & Frameworks**
 
-<img src="https://img.shields.io/badge/RAG-70A5FD?style=flat-square&logo=readthedocs&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Image%20Classification-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-70A5FD?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Image_Classification-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-**Cloud & DevOps**
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+**Cloud, DevOps & Databases**
 
-**Databases & Vector Stores**
+[![Skills](https://skillicons.dev/icons?i=docker,md&theme=dark)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white"/>
+<br/><br/>
 
 **Tools & Design**
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+[![Skills](https://skillicons.dev/icons?i=figma,git,github&theme=dark)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+
+</div>
 
 <br/>
 
@@ -138,20 +139,6 @@
 - **Dominant Color Analysis from Image** — Applied K-means clustering to extract meaningful color palettes from images, a practical tool for e-commerce cataloguing and design workflows
 - **Interactive Feedback & Poster Generation Platform** — Built an SIH feedback submission platform where students answer guided prompts and auto-generate a polished poster
 
-### Achievements
-
-<div align="center">
-
-| Achievement | Details |
-|---|---|
-| Startup Pitch Fest 2K25 Finalist | PCU Pune — recognized among top pitches |
-| NPTEL Entrepreneurship | Ranked in the Top 1% of participants |
-| Apple Teacher Programme | Student Organizer at Sri Sai Ram Institute of Technology |
-| Microsoft Certification | Learn AI and Gen AI Basics |
-| HCL (Guvi) Certification | Big Data Analytics with Lab |
-| ICT Academy Certification | ML and AI Fundamentals |
-| NPTEL Certification | Real Time Operating Systems |
-| IBM Workshop | Generative AI using WatsonX (by IBMer R Vasudevan) |
 
 </div>
 
