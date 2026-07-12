@@ -161,16 +161,35 @@
  ML Deployment      → Scalable, production-grade model serving
 ```
 
-### Connect With Me
+### 📫 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadhithya-k-797690288/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aadhithyak123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AADHITHYA-K)
+Let's talk AI, RAG pipelines, or your next big idea 🚀
 
-<img src="https://komarev.com/ghpvc/?username=AADHITHYA-K&color=70a5fd&style=flat-square&label=Profile+Views" />
+<a href="https://www.linkedin.com/in/aadhithya-k-797690288/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:aadhithyak123@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/AADHITHYA-K">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="tel:+919003181180">
+  <img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AADHITHYA-K&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<i>Thanks for stopping by — don't forget to ⭐ a repo you like!</i>
 
 </div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
