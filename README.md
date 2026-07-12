@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aadhithya%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20|%20ML%20Engineer%20%7C%20RAG%20%26%20LLM%20Builder&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://github.com/AADHITHYA-K">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-Year+AI+%26+DS+Student+%40+Sri+Sai+Ram+IT;Building+RAG+Pipelines+%26+Local+LLM+Systems;ML+Engineer+%7C+Frontend+Developer;Turning+Ideas+Into+Deployed+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-Year+AI+%26+DS+Student;Building+RAG+Pipelines+%26+Local+LLM+Systems;ML+Engineer+%7C+Frontend+Developer;Turning+Ideas+Into+Deployed+Products" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="center" width="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 <br clear="right"/>
 
