@@ -10,40 +10,9 @@
 
 <br/>
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif"/>
-
-### 💻 About Me
-
-```python
-class Aadhithya:
-    def __init__(self):
-        self.name = "Aadhithya K"
-        self.location = "Chennai, India"
-        self.degree = "B.Tech - AI & Data Science (CGPA: 9.04)"
-        self.institution = "Sri Sai Ram Institute of Technology"
-
-        self.stack = [
-            "Python", "Java", "C",
-            "RAG Pipelines", "LLMs", "Prompt Engineering",
-            "HTML/CSS", "Figma", "Docker"
-        ]
-
-        self.currently_learning = [
-            "Advanced Agentic RAG Systems",
-            "Generative AI with WatsonX",
-            "Scalable ML Deployment"
-        ]
-
-        self.fun_fact = "I turn Figma mockups into pixel-perfect frontends 🎨"
-
-    def motto(self):
-        return "Learn quickly. Build practically. Ship impact. 🚀"
-
-
-me = Aadhithya()
-print(me.motto())
-```
-
+<div align="center">
+  <img  width="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</div>
 <br clear="right"/>
 
 ### 🛠️ Tech Stack
