@@ -10,7 +10,7 @@
 
 <br/>
 
-<img align="center" width="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-83b23a90cd3a.gif"/>
 
 <br clear="right"/>
 
