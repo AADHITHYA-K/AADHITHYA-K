@@ -15,7 +15,7 @@
 </div>
 <br clear="right"/>
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -54,7 +54,7 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -79,15 +79,8 @@
 
 </div>
 
-### 🏆 Trophy Wall
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AADHITHYA-K&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%"/>
-
-</div>
-
-### 💼 Work Experience
+### Work Experience
 
 <details>
 <summary><b>AI/ML Intern | Itech India Pvt. Ltd.</b> — Feb 2025 – Nov 2025 (Chennai, India)</summary>
@@ -128,7 +121,7 @@
 
 </details>
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <div align="center">
 
@@ -140,29 +133,29 @@
 
 </div>
 
-### 🌟 More Projects
+### More Projects
 
 - **Dominant Color Analysis from Image** — Applied K-means clustering to extract meaningful color palettes from images, a practical tool for e-commerce cataloguing and design workflows
 - **Interactive Feedback & Poster Generation Platform** — Built an SIH feedback submission platform where students answer guided prompts and auto-generate a polished poster
 
-### 🏅 Achievements
+### Achievements
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
-|---|---|---|
-| 🚀 | Startup Pitch Fest 2K25 Finalist | PCU Pune — recognized among top pitches |
-| 📈 | NPTEL Entrepreneurship | Ranked in the Top 1% of participants |
-| 🍎 | Apple Teacher Programme | Student Organizer at Sri Sai Ram Institute of Technology |
-| 📜 | Microsoft Certification | Learn AI and Gen AI Basics |
-| 📜 | HCL (Guvi) Certification | Big Data Analytics with Lab |
-| 📜 | ICT Academy Certification | ML and AI Fundamentals |
-| 📜 | NPTEL Certification | Real Time Operating Systems |
-| 📜 | IBM Workshop | Generative AI using WatsonX (by IBMer R Vasudevan) |
+| Achievement | Details |
+|---|---|
+| Startup Pitch Fest 2K25 Finalist | PCU Pune — recognized among top pitches |
+| NPTEL Entrepreneurship | Ranked in the Top 1% of participants |
+| Apple Teacher Programme | Student Organizer at Sri Sai Ram Institute of Technology |
+| Microsoft Certification | Learn AI and Gen AI Basics |
+| HCL (Guvi) Certification | Big Data Analytics with Lab |
+| ICT Academy Certification | ML and AI Fundamentals |
+| NPTEL Certification | Real Time Operating Systems |
+| IBM Workshop | Generative AI using WatsonX (by IBMer R Vasudevan) |
 
 </div>
 
-### 🎓 Education
+### Education
 
 <div align="center">
 
@@ -173,15 +166,15 @@
 
 </div>
 
-### 📚 Currently Learning
+### Currently Learning
 
 ```text
-🧱 Agentic AI        → Multi-step reasoning, tool-using RAG agents
-🧠 Generative AI      → WatsonX workflows, prompt-driven pipelines
-☁️ ML Deployment      → Scalable, production-grade model serving
+ Agentic AI        → Multi-step reasoning, tool-using RAG agents
+ Generative AI      → WatsonX workflows, prompt-driven pipelines
+ ML Deployment      → Scalable, production-grade model serving
 ```
 
-### 📫 Connect With Me
+### Connect With Me
 
 <div align="center">
 
