@@ -161,11 +161,9 @@
  ML Deployment      → Scalable, production-grade model serving
 ```
 
-### 📫 Connect With Me
+### Connect With Me
 
 <div align="center">
-
-Let's talk AI, RAG pipelines, or your next big idea 🚀
 
 <a href="https://www.linkedin.com/in/aadhithya-k-797690288/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
